@@ -1,0 +1,15 @@
+/mnt/d/OneDrive/Documents/Spring2017/CS201/assign1
+Fri Feb 17 06:59:59 STD 2017
+comparator.c		 queue.h      string.c		t-int4.txt
+comparator.h		 readIn.c     string.h		t-int5.txt
+dll.c			 readIn.h     testInteger1.txt	t-real1.txt
+dll.h			 real.c       testInteger2.txt	t-real2.txt
+dturner2@crimson.ua.edu  real.h       testInteger3.txt	t-real3.txt
+integer.c		 results.txt  testInteger4.txt	t-str1.txt
+integer.h		 scanner.c    testReal1.txt	t-str2.txt
+items			 scanner.h    testReal2.txt	t-str3.txt
+jbmResults.txt		 sll.c	      testString1.txt	WORKING
+makefile		 sll.h	      testString2.txt	yourResults.txt
+myResults.txt		 sqsort.c     t-int1.txt
+newResults.txt		 stack.c      t-int2.txt
+queue.c			 stack.h      t-int3.txt
